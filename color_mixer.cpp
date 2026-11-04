@@ -52,7 +52,7 @@ int main()
         std::cout << "green";
     }
     
-    if ((strcmp(first_color, second_color) == 0))
+    if (strcmp(first_color, second_color) == 0)
     {
         std::cout << first_color;
     }
